@@ -1,11 +1,7 @@
 ## Olá! Meu nome é **Herick**
 
 ---
-<br/>
-<br/>
-
 ### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
