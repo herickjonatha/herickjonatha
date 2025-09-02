@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá! Meu nome é **Herick**, estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFIP**. Atualmente estou no **4º período** e em busca de oportunidades no mercado de programação**. 😃
 
-<!--
-**herickjonatha/herickjonatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Buscando entrar no mercado.
+- ⚡ Experiência anterior em **design de artes**, o que me dá um olhar diferenciado para **UX/UI e design visual**.
+- 🐱‍👤 Estudante dedicado, aprendendo constantemente sobre linguagens, frameworks e boas práticas de desenvolvimento.
+
+---
+
+## Áreas de estudo
+
+- 💻 **Programação:** JavaScript, Node.js  
+- 🎨 **Design e UX:** fundamentos de UX Design  
+- 🎯 **Frameworks e ferramentas:** explorando frameworks atuais do mercado  
+- 🎮 **Games:** lógica e desenvolvimento de jogos  
+
+---
+
+## Contato
+
+- 🐱‍🏍 GitHub: [https://github.com/herickmvp](https://github.com/herickjonatha)
+
+---
+
+- 🚀 Sempre aberto a **novos desafios e oportunidades de aprendizado**!
