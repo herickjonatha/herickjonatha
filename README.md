@@ -1,7 +1,21 @@
 ## Olá! Meu nome é **Herick**
 
 ---
+<br/>
+<br/>
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=herickjonatha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
 
 - 🔭 Buscando entrar no mercado.
 - ⚡ Experiência anterior em **design de artes**, o que me dá um olhar diferenciado para **UX/UI e design visual**.
