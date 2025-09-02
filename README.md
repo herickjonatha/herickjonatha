@@ -11,8 +11,6 @@
     src="https://github-readme-stats.vercel.app/api?username=herickjonatha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-
 - 🔭 Buscando entrar no mercado.
 - ⚡ Experiência anterior em **design de artes**, o que me dá um olhar diferenciado para **UX/UI e design visual**.
 - 🐱‍👤 Estudante dedicado, aprendendo constantemente sobre linguagens, frameworks e boas práticas de desenvolvimento.
