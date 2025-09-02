@@ -1,4 +1,4 @@
-## Olá! Meu nome é **Herick**, estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFIP**. Atualmente estou no **4º período** e em busca de oportunidades no mercado de programação**. 😃
+## Olá! Meu nome é **Herick**
 
 ---
 
